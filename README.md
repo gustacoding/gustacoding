@@ -6,11 +6,11 @@ Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por te
 
 **Frontend:**
 - HTML
-- CSS (Sass, Bootstrap)
-- JavaScript (React, Vue.js)
+- CSS
+- JavaScript
 
 **Backend:**
-- Node.js (Express)
+- Node.js
 - MongoDB
 - REST APIs
 
