@@ -1,48 +1,41 @@
-# Olá! Eu sou o Gustavo Tatsch 👋
+# Gustavo Tatsch
 
-Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou cursando Engenharia de Software.
+![Imagem de capa](https://gustacoding.github.io/portfolio/assets/images/header-image.jpg)
 
-## 🚀 Minhas Habilidades
+## Resumo
 
-**Frontend:**
-- HTML
-- CSS (Sass, Bootstrap)
-- JavaScript (React, Vue.js)
+Desenvolvedor Frontend Junior com paixão por tecnologia e inovação. Experiência prévia em engenharia e transição para desenvolvimento web. Fundador da Digital Forge. Estudante de Engenharia de Software na UNINTER.
 
-**Backend:**
-- Node.js (Express)
-- MongoDB
-- REST APIs
+## Sobre Mim
 
-**Outras Ferramentas:**
-- Git & GitHub
-- Docker
-- Linux
-- VSCode
+Sou Gustavo Tatsch, um desenvolvedor Frontend Junior com uma paixão por tecnologia e inovação. Tenho experiência em engenharia e estou atualmente em transição para o desenvolvimento web. Fundador da Digital Forge, uma empresa especializada em desenvolvimento de sites personalizados. Estou cursando Engenharia de Software na UNINTER.
 
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustatsch/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://gustacoding.github.io/portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/gustacoding/)
-
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustacoding&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustacoding&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustacoding&theme=radical)
-![Contribuições](https://activity-graph.herokuapp.com/graph?username=gustacoding&theme=radical)
 
-## 🗂️ Projetos Destacados
+## Projetos
 
-[![Digital Forge](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=DigitalForge&theme=radical)](https://github.com/gustacoding/DigitalForge)
-[![Projeto React](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=projeto-react&theme=radical)](https://github.com/gustacoding/projeto-react)
-[![Projeto Vue.js](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=projeto-vuejs&theme=radical)](https://github.com/gustacoding/projeto-vuejs)
+### [Portfólio Online](https://gustacoding.github.io/portfolio/)
+Um portfólio online apresentando meus trabalhos e habilidades em desenvolvimento web.
 
+### [Projeto 2]
+Descrição do Projeto 2.
 
-## 📫 Como me encontrar
+### [Projeto 3]
+Descrição do Projeto 3.
 
-- Email: gustavo@digitalforge.dev.br
-- WhatsApp: +55 51 98109-2359
+## Ferramentas e Tecnologias
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Contato
+
+- [LinkedIn](https://linkedin.com/in/gustacoding)
+- [Twitter](https://twitter.com/gustacoding)
+- [Email](mailto:gustavo.tatsch@example.com)
