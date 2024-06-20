@@ -46,7 +46,3 @@ Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por te
 - WhatsApp: +55 51 98109-2359
 
 ---
-
-Obrigado pela visita! Fique à vontade para explorar meus repositórios e conectar-se comigo.
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=gustacoding.gustacoding)
