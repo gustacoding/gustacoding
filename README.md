@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo Tatsch 👋
+# Olá! Eu sou o Gustavo 👋
 
 Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou cursando Engenharia de Software.
 
@@ -31,13 +31,6 @@ Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por te
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustacoding&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustacoding&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustacoding&theme=radical)
-
-## 🗂️ Projetos Destacados
-
-[![Digital Forge](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=DigitalForge&theme=radical)](https://github.com/gustacoding/DigitalForge)
-[![Projeto React](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=projeto-react&theme=radical)](https://github.com/gustacoding/projeto-react)
-[![Projeto Vue.js](https://github-readme-stats.vercel.app/api/pin/?username=gustacoding&repo=projeto-vuejs&theme=radical)](https://github.com/gustacoding/projeto-vuejs)
-
 
 ## 📫 Como me encontrar
 
