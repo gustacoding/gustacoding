@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gustavo 👋
 
-Sou Desenvolvedor Frontend e fundador da Digital Forge. Tenho uma paixão por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou cursando Engenharia de Software.
+Tenho uma paixão por tecnologia e estou sempre em busca de novos desafios e oportunidades de aprendizado. Atualmente, estou cursando Engenharia de Software.
 
 ## 🚀 Minhas Habilidades
 
