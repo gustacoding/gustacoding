@@ -1,7 +1,9 @@
 # 💫 About Me:
-Software engineer passionate about user-centric solutions and efficiency. Enhancing Umbler's platform to deliver exceptional experiences. Always eager to connect with creative and innovative professionals.
+Software engineer passionate about user-centric solutions and efficiency.<br/>
+Enhancing Umbler's platform to deliver exceptional experiences.<br/>
+Always eager to connect with creative and innovative professionals.
 
-👨🏻‍💻 Software Engineer at Umbler <br />
+👨🏻‍💻 Software Engineer at Umbler <br/>
 📍 Based in Canoas, 🇧🇷
 
 ## 🌐 Socials:
