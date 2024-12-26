@@ -1,6 +1,8 @@
 # 💫 About Me:
-🌐 Currently employed at Umbler as an SWT Engineer I.<br>🤝 Seeking collaboration in full-stack development, AI integrations, and development workflow enhancement.<br>💡 In need of assistance with scaling AI projects, optimizing front-end performance, and delving into cloud infrastructure.<br>⚡ A fun fact about me: I have a strong passion for devising innovative solutions that integrate AI into everyday development hurdles.
+Software engineer passionate about user-centric solutions and efficiency. Enhancing Umbler's platform to deliver exceptional experiences. Always eager to connect with creative and innovative professionals.
 
+👨🏻‍💻 Software Engineer at Umbler
+📍 Based in Canoas, 🇧🇷
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtxciv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustatsch) 
